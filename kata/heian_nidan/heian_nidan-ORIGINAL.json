@@ -1,0 +1,722 @@
+[
+  {
+    "count": 1,
+    "kata_uuid": "6529f2fb-a224-4e0c-b19d-4a413640b575", 
+    "aerial_view": "kata/heian_nidan/images/heian_nidan_01-aerial_view.jpg",
+    "subcount": "",
+    "stance": "Migi kōkutsu-dachi",
+    "technique_eng": [
+      "Upper level block to left side with left back-arm",
+      "Right forearm at side of forehead kamae"
+    ],
+    "technique_uuid": ["", ""], 
+    "stance_uuid": "4aa2259a-dbd0-4fb9-a4a7-6c430df1d9bc", 
+    "kiai": false,
+    "bunkai_annotations": [
+      
+    ],
+    "image": "kata/heian_nidan/images/heian_nidan_01.png",
+    "performance_annotations": [
+      
+    ],
+    "gif": "kata/heian_nidan/images/heian_nidan_01.gif",
+    "technique_jap": [
+      "Hidari haiwan hidari sokumen jōdan yoko uke",
+      "Migi zenwan hitai mae yoko kamae"
+    ],
+    "notes": ""
+  },
+  {
+    "count": 2,
+    "kata_uuid": "6529f2fb-a224-4e0c-b19d-4a413640b575", 
+    "aerial_view": "kata/heian_nidan/images/heian_nidan_02-aerial_view.jpg",
+    "subcount": "",
+    "stance": "Migi kōkutsu-dachi",
+    "technique_eng": [
+      "Strike to left side with right hammer fist",
+      "Sweeping block with left wrist"
+    ],
+    "technique_uuid": ["ba906dd7-0262-49fc-bcb4-4a2d83db28ee", "d98adde7-acae-4d80-8bdb-9d84187dd22a"], 
+    "stance_uuid": "4aa2259a-dbd0-4fb9-a4a7-6c430df1d9bc", 
+    "kiai": false,
+    "bunkai_annotations": [
+      
+    ],
+    "image": "kata/heian_nidan/images/heian_nidan_02.png",
+    "performance_annotations": [
+      
+    ],
+    "gif": "kata/heian_nidan/images/heian_nidan_02.gif",
+    "technique_jap": [
+      "Migi kentsui hidari sokumen uchi-komi",
+      "Hidari tekubi nagashi-uke"
+    ],
+    "notes": ""
+  },
+  {
+    "count": 3,
+    "kata_uuid": "6529f2fb-a224-4e0c-b19d-4a413640b575", 
+    "aerial_view": "kata/heian_nidan/images/heian_nidan_03-aerial_view.jpg",
+    "subcount": "",
+    "stance": "Migi kōkutsu-dachi",
+    "technique_eng": [
+      "Middle level punch to left side with left wrist",
+      "Right fist at right side"
+    ],
+    "technique_uuid": ["", ""], 
+    "stance_uuid": "4aa2259a-dbd0-4fb9-a4a7-6c430df1d9bc", 
+    "kiai": false,
+    "bunkai_annotations": [
+      
+    ],
+    "image": "kata/heian_nidan/images/heian_nidan_03.png",
+    "performance_annotations": [
+      
+    ],
+    "gif": "kata/heian_nidan/images/heian_nidan_03.gif",
+    "technique_jap": [
+      "Hidari ken hidari sokumen chūdan-uke",
+      "Migi ken migi koshi kamae"
+    ],
+    "notes": ""
+  },
+  {
+    "count": 4,
+    "kata_uuid": "6529f2fb-a224-4e0c-b19d-4a413640b575", 
+    "aerial_view": "kata/heian_nidan/images/heian_nidan_04-aerial_view.jpg",
+    "subcount": "",
+    "stance": "Hidari kōkutsu-dachi",
+    "technique_eng": [
+      "Upper level block to right side with right back-arm",
+      "Left forearm at side of forehead kamae"
+    ],
+    "technique_uuid": ["", ""], 
+    "stance_uuid": "4aa2259a-dbd0-4fb9-a4a7-6c430df1d9bc", 
+    "kiai": false,
+    "bunkai_annotations": [
+      
+    ],
+    "image": "kata/heian_nidan/images/heian_nidan_04.png",
+    "performance_annotations": [
+      
+    ],
+    "gif": "kata/heian_nidan/images/heian_nidan_04.gif",
+    "technique_jap": [
+      "Migi haiwan migi sokumen jōdan yoko uke",
+      "Hidari zenwan hitai mae yoko kamae"
+    ],
+    "notes": ""
+  },
+  {
+    "count": 5,
+    "kata_uuid": "6529f2fb-a224-4e0c-b19d-4a413640b575", 
+    "aerial_view": "kata/heian_nidan/images/heian_nidan_05-aerial_view.jpg",
+    "subcount": "",
+    "stance": "Hidari kōkutsu-dachi",
+    "technique_eng": [
+      "Strike to right side with left hammer fist",
+      "Sweeping block with right fist"
+    ],
+    "technique_uuid": ["ba906dd7-0262-49fc-bcb4-4a2d83db28ee", "d98adde7-acae-4d80-8bdb-9d84187dd22a"], 
+    "stance_uuid": "4aa2259a-dbd0-4fb9-a4a7-6c430df1d9bc", 
+    "kiai": false,
+    "bunkai_annotations": [
+      
+    ],
+    "image": "kata/heian_nidan/images/heian_nidan_05.png",
+    "performance_annotations": [
+      
+    ],
+    "gif": "kata/heian_nidan/images/heian_nidan_05.gif",
+    "technique_jap": [
+      "Hidari kentsui migi sokumen uchi-komi",
+      "Migi tekubi nagashi-uke"
+    ],
+    "notes": ""
+  },
+  {
+    "count": 6,
+    "kata_uuid": "6529f2fb-a224-4e0c-b19d-4a413640b575", 
+    "aerial_view": "kata/heian_nidan/images/heian_nidan_06-aerial_view.jpg",
+    "subcount": "",
+    "stance": "Hidari kōkutsu-dachi",
+    "technique_eng": [
+      "Middle level punch to right side with right fist",
+      "Left fist at left side"
+    ],
+    "technique_uuid": ["", ""], 
+    "stance_uuid": "4aa2259a-dbd0-4fb9-a4a7-6c430df1d9bc", 
+    "kiai": false,
+    "bunkai_annotations": [
+      
+    ],
+    "image": "kata/heian_nidan/images/heian_nidan_06.png",
+    "performance_annotations": [
+      
+    ],
+    "gif": "kata/heian_nidan/images/heian_nidan_06.gif",
+    "technique_jap": [
+      "Migi ken migi sokumen chūdan-zuki",
+      "Hidari ken hidari koshi"
+    ],
+    "notes": ""
+  },
+  {
+    "count": 7,
+    "kata_uuid": "6529f2fb-a224-4e0c-b19d-4a413640b575", 
+    "aerial_view": "kata/heian_nidan/images/heian_nidan_07a-aerial_view.jpg",
+    "subcount": "a",
+    "stance": "Hidari ashi-dachi",
+    "technique_eng": [
+      "Right fist on top of left fist"
+    ],
+    "technique_uuid": [""], 
+    "stance_uuid": "", 
+    "kiai": false,
+    "bunkai_annotations": [
+      
+    ],
+    "image": "kata/heian_nidan/images/heian_nidan_07a.png",
+    "performance_annotations": [
+      
+    ],
+    "gif": "kata/heian_nidan/images/heian_nidan_07a.gif",
+    "technique_jap": [
+      "Hidari ken eu migi ken"
+    ],
+    "notes": ""
+  },
+  {
+    "count": 7,
+    "kata_uuid": "6529f2fb-a224-4e0c-b19d-4a413640b575", 
+    "aerial_view": "kata/heian_nidan/images/heian_nidan_07b-aerial_view.jpg",
+    "subcount": "b",
+    "stance": "Hidari ashi-dachi",
+    "technique_eng": [
+      "Upper level horizontal strike with right back-fist",
+      "Side snap kick with right sword foot"
+    ],
+    "technique_uuid": ["5c18a45e-7e04-4092-9e7e-c1452e1a951b", "58b348cf-5379-434e-ab7b-7f7f1d255695"], 
+    "stance_uuid": "", 
+    "kiai": false,
+    "bunkai_annotations": [
+      
+    ],
+    "image": "kata/heian_nidan/images/heian_nidan_07b.png",
+    "performance_annotations": [
+      
+    ],
+    "gif": "kata/heian_nidan/images/heian_nidan_07b.gif",
+    "technique_jap": [
+      "Migi uraken jōdan yoko mawashi-uchi",
+      "Migi sokutō yoko keage"
+    ],
+    "notes": "Turn hips to right. Raise right sole to left knee."
+  },
+  {
+    "count": 8,
+    "kata_uuid": "6529f2fb-a224-4e0c-b19d-4a413640b575", 
+    "aerial_view": "kata/heian_nidan/images/heian_nidan_08-aerial_view.jpg",
+    "subcount": "",
+    "stance": "Migi kōkutsu-dachi",
+    "technique_eng": [
+      "Left sword hand block",
+      "Right sword hand in front of chest kamae"
+    ],
+    "technique_uuid": ["9ecfe6a4-dc7f-4ef7-b8a6-b7286345543c", ""], 
+    "stance_uuid": "4aa2259a-dbd0-4fb9-a4a7-6c430df1d9bc", 
+    "kiai": false,
+    "bunkai_annotations": [
+      
+    ],
+    "image": "kata/heian_nidan/images/heian_nidan_08.png",
+    "performance_annotations": [
+      
+    ],
+    "gif": "kata/heian_nidan/images/heian_nidan_08.gif",
+    "technique_jap": [
+      "Hidari shutō uke",
+      "Migi shutō suigetsu mae kamae"
+    ],
+    "notes": "Return kicking foot smoothly"
+  },
+  {
+    "count": 9,
+    "kata_uuid": "6529f2fb-a224-4e0c-b19d-4a413640b575", 
+    "aerial_view": "kata/heian_nidan/images/heian_nidan_09-aerial_view.jpg",
+    "subcount": "",
+    "stance": "Hidari kōkutsu-dachi",
+    "technique_eng": [
+      "Right hand sword block"
+    ],
+    "technique_uuid": ["9ecfe6a4-dc7f-4ef7-b8a6-b7286345543c"], 
+    "stance_uuid": "4aa2259a-dbd0-4fb9-a4a7-6c430df1d9bc", 
+    "kiai": false,
+    "bunkai_annotations": [
+      
+    ],
+    "image": "kata/heian_nidan/images/heian_nidan_09.png",
+    "performance_annotations": [
+      
+    ],
+    "gif": "kata/heian_nidan/images/heian_nidan_09.gif",
+    "technique_jap": [
+      "Migi shutō uke"
+    ],
+    "notes": "Shift weight to left leg, bend left knee, slide right foot forward"
+  },
+  {
+    "count": 10,
+    "kata_uuid": "6529f2fb-a224-4e0c-b19d-4a413640b575", 
+    "aerial_view": "kata/heian_nidan/images/heian_nidan_10-aerial_view.jpg",
+    "subcount": "",
+    "stance": "Migi kōkutsu-dachi",
+    "technique_eng": [
+      "Left sword hand block"
+    ],
+    "technique_uuid": ["9ecfe6a4-dc7f-4ef7-b8a6-b7286345543c"], 
+    "stance_uuid": "4aa2259a-dbd0-4fb9-a4a7-6c430df1d9bc", 
+    "kiai": false,
+    "bunkai_annotations": [
+      
+    ],
+    "image": "kata/heian_nidan/images/heian_nidan_10.png",
+    "performance_annotations": [
+      
+    ],
+    "gif": "kata/heian_nidan/images/heian_nidan_10.gif",
+    "technique_jap": [
+      "Hidari shutō uke"
+    ],
+    "notes": "Shift left foot one step forward."
+  },
+  {
+    "count": 11,
+    "kata_uuid": "6529f2fb-a224-4e0c-b19d-4a413640b575", 
+    "aerial_view": "kata/heian_nidan/images/heian_nidan_11-aerial_view.jpg",
+    "subcount": "",
+    "stance": "Migi zenkutsu-dachi",
+    "technique_eng": [
+      "Middle level vertical punch with right four-finger spear hand",
+      "Pressing block with left palm"
+    ],
+    "technique_uuid": ["a2698969-5518-4f4b-8e16-17f6c3f1da18", "5e469090-b9ac-44a7-9f00-d147a8883278"], 
+    "stance_uuid": "cbe994c4-3736-464d-a2de-c7e77ab37289", 
+    "kiai": true,
+    "bunkai_annotations": [
+      
+    ],
+    "image": "kata/heian_nidan/images/heian_nidan_11.png",
+    "performance_annotations": [
+      
+    ],
+    "gif": "kata/heian_nidan/images/heian_nidan_11.gif",
+    "technique_jap": [
+      "Migi shihon nukite chūdan tate-zuki",
+      "Hidari shō osae-uke"
+    ],
+    "notes": ""
+  }, 
+  {
+    "count": 12,
+    "kata_uuid": "6529f2fb-a224-4e0c-b19d-4a413640b575", 
+    "aerial_view": "kata/heian_nidan/images/heian_nidan_12-aerial_view.jpg",
+    "subcount": "",
+    "stance": "Migi kōkutsu-dachi",
+    "technique_eng": [
+      "Left hand sword block"
+    ],
+    "technique_uuid": ["9ecfe6a4-dc7f-4ef7-b8a6-b7286345543c"], 
+    "stance_uuid": "4aa2259a-dbd0-4fb9-a4a7-6c430df1d9bc", 
+    "kiai": false,
+    "bunkai_annotations": [
+      
+    ],
+    "image": "kata/heian_nidan/images/heian_nidan_12.png",
+    "performance_annotations": [
+      
+    ],
+    "gif": "kata/heian_nidan/images/heian_nidan_12.gif",
+    "technique_jap": [
+      "Hidari shutō uke"
+    ],
+    "notes": "With right leg as pivot, rotate hips in a wide movement to the left."
+  }, 
+  {
+    "count": 13,
+    "kata_uuid": "6529f2fb-a224-4e0c-b19d-4a413640b575", 
+    "aerial_view": "kata/heian_nidan/images/heian_nidan_13-aerial_view.jpg",
+    "subcount": "",
+    "stance": "Hidari kōkutsu-dachi",
+    "technique_eng": [
+      "Right hand sword block"
+    ],
+    "technique_uuid": ["9ecfe6a4-dc7f-4ef7-b8a6-b7286345543c"], 
+    "stance_uuid": "4aa2259a-dbd0-4fb9-a4a7-6c430df1d9bc", 
+    "kiai": false,
+    "bunkai_annotations": [
+      
+    ],
+    "image": "kata/heian_nidan/images/heian_nidan_13.png",
+    "performance_annotations": [
+      
+    ],
+    "gif": "kata/heian_nidan/images/heian_nidan_13.gif",
+    "technique_jap": [
+      "Migi shutō uke"
+    ],
+    "notes": "Shift weight to left leg. SLide right foot diagonally forward."
+  }, 
+  {
+    "count": 14,
+    "kata_uuid": "6529f2fb-a224-4e0c-b19d-4a413640b575", 
+    "aerial_view": "kata/heian_nidan/images/heian_nidan_14-aerial_view.jpg",
+    "subcount": "",
+    "stance": "Hidari kōkutsu-dachi",
+    "technique_eng": [
+      "Right hand sword block"
+    ],
+    "technique_uuid": ["9ecfe6a4-dc7f-4ef7-b8a6-b7286345543c"], 
+    "stance_uuid": "4aa2259a-dbd0-4fb9-a4a7-6c430df1d9bc", 
+    "kiai": false,
+    "bunkai_annotations": [
+      
+    ],
+    "image": "kata/heian_nidan/images/heian_nidan_14.png",
+    "performance_annotations": [
+      
+    ],
+    "gif": "kata/heian_nidan/images/heian_nidan_14.gif",
+    "technique_jap": [
+      "Migi shutō uke"
+    ],
+    "notes": "Left leg is pivot leg. Rotate hips to the right."
+  }, 
+  {
+    "count": 15,
+    "kata_uuid": "6529f2fb-a224-4e0c-b19d-4a413640b575", 
+    "aerial_view": "kata/heian_nidan/images/heian_nidan_15-aerial_view.jpg",
+    "subcount": "",
+    "stance": "Migi kōkutsu-dachi",
+    "technique_eng": [
+      "Left sword hand block"
+    ],
+    "technique_uuid": ["9ecfe6a4-dc7f-4ef7-b8a6-b7286345543c"], 
+    "stance_uuid": "4aa2259a-dbd0-4fb9-a4a7-6c430df1d9bc", 
+    "kiai": false,
+    "bunkai_annotations": [
+      
+    ],
+    "image": "kata/heian_nidan/images/heian_nidan_15.png",
+    "performance_annotations": [
+      
+    ],
+    "gif": "kata/heian_nidan/images/heian_nidan_15.gif",
+    "technique_jap": [
+      "Hidari shutō uke"
+    ],
+    "notes": "Shift weight to right leg and slide left foot diagonally forward."
+  }, 
+  {
+    "count": 16,
+    "kata_uuid": "6529f2fb-a224-4e0c-b19d-4a413640b575", 
+    "aerial_view": "kata/heian_nidan/images/heian_nidan_16-aerial_view.jpg",
+    "subcount": "",
+    "stance": "Hidari zenkutsu-dachi",
+    "technique_eng": [
+      "Right middle level block, inside outward", 
+      "Reverse half-front-facing position"
+    ],
+    "technique_uuid": ["8482f4d2-2f14-46f3-a2d3-d9ee9ff5d235"], 
+    "stance_uuid": "cbe994c4-3736-464d-a2de-c7e77ab37289", 
+    "kiai": false,
+    "bunkai_annotations": [
+      
+    ],
+    "image": "kata/heian_nidan/images/heian_nidan_16.png",
+    "performance_annotations": [
+      
+    ],
+    "gif": "kata/heian_nidan/images/heian_nidan_16.gif",
+    "technique_jap": [
+      "Migi chūdan uchi uke", 
+      "Gyaku hanmi"
+    ],
+    "notes": ""
+  }, 
+  {
+    "count": 17,
+    "kata_uuid": "6529f2fb-a224-4e0c-b19d-4a413640b575", 
+    "aerial_view": "kata/heian_nidan/images/heian_nidan_17-aerial_view.jpg",
+    "subcount": "",
+    "stance": "Hidari zenkutsu-dachi",
+    "technique_eng": [
+      "Right front snap kick"
+    ],
+    "technique_uuid": ["959eab74-f65f-4d78-9c48-aa24fb6ede13"], 
+    "stance_uuid": "cbe994c4-3736-464d-a2de-c7e77ab37289", 
+    "kiai": false,
+    "bunkai_annotations": [
+      
+    ],
+    "image": "kata/heian_nidan/images/heian_nidan_17.png",
+    "performance_annotations": [
+      
+    ],
+    "gif": "kata/heian_nidan/images/heian_nidan_17.gif",
+    "technique_jap": [
+      "Migi mae keage"
+    ],
+    "notes": "Execute techniques 16, 17 and 18 rapidly."
+  }, 
+  {
+    "count": 18,
+    "kata_uuid": "6529f2fb-a224-4e0c-b19d-4a413640b575", 
+    "aerial_view": "kata/heian_nidan/images/heian_nidan_18-aerial_view.jpg",
+    "subcount": "",
+    "stance": "Migi zenkutsu-dachi",
+    "technique_eng": [
+      "Middle level reverse punch with left fist"
+    ],
+    "technique_uuid": ["2a52c38a-13c4-4574-9fdc-68f34c932bc2"], 
+    "stance_uuid": "cbe994c4-3736-464d-a2de-c7e77ab37289", 
+    "kiai": false,
+    "bunkai_annotations": [
+      
+    ],
+    "image": "kata/heian_nidan/images/heian_nidan_18.png",
+    "performance_annotations": [
+      
+    ],
+    "gif": "kata/heian_nidan/images/heian_nidan_18.gif",
+    "technique_jap": [
+      "Hidari ken chūdan gyaku-zuki"
+    ],
+    "notes": "Punch as soon as kicking foot returns to floor."
+  }, 
+  {
+    "count": 19,
+    "kata_uuid": "6529f2fb-a224-4e0c-b19d-4a413640b575", 
+    "aerial_view": "kata/heian_nidan/images/heian_nidan_19-aerial_view.jpg",
+    "subcount": "",
+    "stance": "Migi zenkutsu-dachi",
+    "technique_eng": [
+      "Left middle level block, inside outward"
+    ],
+    "technique_uuid": ["8482f4d2-2f14-46f3-a2d3-d9ee9ff5d235"], 
+    "stance_uuid": "cbe994c4-3736-464d-a2de-c7e77ab37289", 
+    "kiai": false,
+    "bunkai_annotations": [
+      
+    ],
+    "image": "kata/heian_nidan/images/heian_nidan_19.png",
+    "performance_annotations": [
+      
+    ],
+    "gif": "kata/heian_nidan/images/heian_nidan_19.gif",
+    "technique_jap": [
+      "Hidari chūdan uchi uke"
+    ],
+    "notes": "Turning hips brings right foot half a step back automatically."
+  }, 
+  {
+    "count": 20,
+    "kata_uuid": "6529f2fb-a224-4e0c-b19d-4a413640b575", 
+    "aerial_view": "kata/heian_nidan/images/heian_nidan_20-aerial_view.jpg",
+    "subcount": "",
+    "stance": "Migi zenkutsu-dachi",
+    "technique_eng": [
+      "Left front snap kick"
+    ],
+    "technique_uuid": ["959eab74-f65f-4d78-9c48-aa24fb6ede13"], 
+    "stance_uuid": "cbe994c4-3736-464d-a2de-c7e77ab37289", 
+    "kiai": false,
+    "bunkai_annotations": [
+      
+    ],
+    "image": "kata/heian_nidan/images/heian_nidan_20.png",
+    "performance_annotations": [
+      
+    ],
+    "gif": "kata/heian_nidan/images/heian_nidan_20.gif",
+    "technique_jap": [
+      "Hidari mae keage"
+    ],
+    "notes": "Execute techniques 19, 20 and 21 rapidly."
+  }, 
+  {
+    "count": 21,
+    "kata_uuid": "6529f2fb-a224-4e0c-b19d-4a413640b575", 
+    "aerial_view": "kata/heian_nidan/images/heian_nidan_21-aerial_view.jpg",
+    "subcount": "",
+    "stance": "Hidari zenkutsu-dachi",
+    "technique_eng": [
+      "Middle level reverse punch with right fist"
+    ],
+    "technique_uuid": ["2a52c38a-13c4-4574-9fdc-68f34c932bc2"], 
+    "stance_uuid": "cbe994c4-3736-464d-a2de-c7e77ab37289", 
+    "kiai": false,
+    "bunkai_annotations": [
+      
+    ],
+    "image": "kata/heian_nidan/images/heian_nidan_21.png",
+    "performance_annotations": [
+      
+    ],
+    "gif": "kata/heian_nidan/images/heian_nidan_21.gif",
+    "technique_jap": [
+      "Migi ken chūdan gyaku-zuki"
+    ],
+    "notes": "Punch while taking front stance after kick."
+  }, 
+  {
+    "count": 22,
+    "kata_uuid": "6529f2fb-a224-4e0c-b19d-4a413640b575", 
+    "aerial_view": "kata/heian_nidan/images/heian_nidan_22-aerial_view.jpg",
+    "subcount": "",
+    "stance": "Migi zenkutsu-dachi",
+    "technique_eng": [
+      "Right middle level augmented form block (Right middle level block, inside outward/Left fist at right elbow)"
+    ],
+    "technique_uuid": ["ddfd5678-4946-494a-a977-cbd1560936fe"], 
+    "stance_uuid": "cbe994c4-3736-464d-a2de-c7e77ab37289", 
+    "kiai": false,
+    "bunkai_annotations": [
+      
+    ],
+    "image": "kata/heian_nidan/images/heian_nidan_22.png",
+    "performance_annotations": [
+      
+    ],
+    "gif": "kata/heian_nidan/images/heian_nidan_22.gif",
+    "technique_jap": [
+      "Migi chūdan morote uke (Migi chūdan uchi uke/Hidari ken migi empi yoko-zoe)"
+    ],
+    "notes": ""
+  }, 
+  {
+    "count": 23,
+    "kata_uuid": "6529f2fb-a224-4e0c-b19d-4a413640b575", 
+    "aerial_view": "kata/heian_nidan/images/heian_nidan_23-aerial_view.jpg",
+    "subcount": "",
+    "stance": "Hidari zenkutsu-dachi",
+    "technique_eng": [
+      "Left downward block"
+    ],
+    "technique_uuid": ["6ee04a11-b0dd-44c1-a893-0488182cee69"], 
+    "stance_uuid": "cbe994c4-3736-464d-a2de-c7e77ab37289", 
+    "kiai": false,
+    "bunkai_annotations": [
+      
+    ],
+    "image": "kata/heian_nidan/images/heian_nidan_23.png",
+    "performance_annotations": [
+      
+    ],
+    "gif": "kata/heian_nidan/images/heian_nidan_23.gif",
+    "technique_jap": [
+      "Hidari gedan barai"
+    ],
+    "notes": "Right leg is pivot leg. Rotate hips to the left."
+  }, 
+  {
+    "count": 24,
+    "kata_uuid": "6529f2fb-a224-4e0c-b19d-4a413640b575", 
+    "aerial_view": "kata/heian_nidan/images/heian_nidan_24-aerial_view.jpg",
+    "subcount": "",
+    "stance": "Migi zenkutsu-dachi",
+    "technique_eng": [
+      "Left upper level rising block"
+    ],
+    "technique_uuid": ["86e416a6-6a57-41cf-9b84-65d61f9dd0dc"], 
+    "stance_uuid": "cbe994c4-3736-464d-a2de-c7e77ab37289", 
+    "kiai": false,
+    "bunkai_annotations": [
+      
+    ],
+    "image": "kata/heian_nidan/images/heian_nidan_24.png",
+    "performance_annotations": [
+      
+    ],
+    "gif": "kata/heian_nidan/images/heian_nidan_24.gif",
+    "technique_jap": [
+      "Hidari jōdan age-uke"
+    ],
+    "notes": "Open left hand, bring it to the jaw, then advance left foot."
+  }, 
+  {
+    "count": 25,
+    "kata_uuid": "6529f2fb-a224-4e0c-b19d-4a413640b575", 
+    "aerial_view": "kata/heian_nidan/images/heian_nidan_25-aerial_view.jpg",
+    "subcount": "",
+    "stance": "Migi zenkutsu-dachi",
+    "technique_eng": [
+      "Right downward block"
+    ],
+    "technique_uuid": ["6ee04a11-b0dd-44c1-a893-0488182cee69"], 
+    "stance_uuid": "cbe994c4-3736-464d-a2de-c7e77ab37289", 
+    "kiai": false,
+    "bunkai_annotations": [
+      
+    ],
+    "image": "kata/heian_nidan/images/heian_nidan_25.png",
+    "performance_annotations": [
+      
+    ],
+    "gif": "kata/heian_nidan/images/heian_nidan_25.gif",
+    "technique_jap": [
+      "Migi gedan barai"
+    ],
+    "notes": "With left leg as pivot, rotate hips in a wide movement."
+  }, 
+  {
+    "count": 26,
+    "kata_uuid": "6529f2fb-a224-4e0c-b19d-4a413640b575", 
+    "aerial_view": "kata/heian_nidan/images/heian_nidan_26-aerial_view.jpg",
+    "subcount": "",
+    "stance": "Hidari zenkutsu-dachi",
+    "technique_eng": [
+      "Left upper level rising block"
+    ],
+    "technique_uuid": ["86e416a6-6a57-41cf-9b84-65d61f9dd0dc"], 
+    "stance_uuid": "cbe994c4-3736-464d-a2de-c7e77ab37289", 
+    "kiai": false,
+    "bunkai_annotations": [
+      
+    ],
+    "image": "kata/heian_nidan/images/heian_nidan_26.png",
+    "performance_annotations": [
+      
+    ],
+    "gif": "kata/heian_nidan/images/heian_nidan_26.gif",
+    "technique_jap": [
+      "Hidari jōdan age-uke"
+    ],
+    "notes": "Advance left foot, block, withdraw other hand at same time."
+  }, 
+  {
+    "count": "Yame",
+    "kata_uuid": "6529f2fb-a224-4e0c-b19d-4a413640b575", 
+    "aerial_view": "kata/heian_nidan/images/heian_nidan_yame-aerial_view.jpg",
+    "subcount": "",
+    "stance": "Shizen-tai",
+    "technique_eng": [
+      ""
+    ],
+    "technique_uuid": [], 
+    "stance_uuid": "1ffb1221-47ba-4e4f-847d-b83ab56a96a3", 
+    "kiai": false,
+    "bunkai_annotations": [
+      
+    ],
+    "image": "kata/heian_nidan/images/heian_nidan_yame.png",
+    "performance_annotations": [
+      
+    ],
+    "gif": "kata/heian_nidan/images/heian_nidan_yame.gif",
+    "technique_jap": [
+      ""
+    ],
+    "notes": "Return to *shizen-tai* by withdrawing left foot."
+  }
+]
