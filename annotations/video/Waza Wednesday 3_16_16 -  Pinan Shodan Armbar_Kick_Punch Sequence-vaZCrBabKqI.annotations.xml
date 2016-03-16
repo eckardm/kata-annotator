@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations>
+<annotation id="annotation_2164281999" type="highlight" log_data="ei=aKvpVsOyCMSXuAKOq6LQCw&amp;a-id=annotation_2164281999&amp;a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCdhdcDIaZBMdvXvw5iHuBrg&amp;a-v=vaZCrBabKqI&amp;l-class=3&amp;xble=1">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="55.78400" y="28.45100" w="40.68900" h="39.04200" t="2:14.504"/>
+      <rectRegion x="55.78400" y="28.45100" w="40.68900" h="39.04200" t="2:19.010"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/channel/UCdhdcDIaZBMdvXvw5iHuBrg?ei=aKvpVsOyCMSXuAKOq6LQCw" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_272832347" type="text" style="highlightText" logable="false">
+  
+  <segment spaceRelative="annotation_2164281999">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2164281999" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_77061703" type="text" style="highlightText" logable="false">
+  
+  <segment spaceRelative="annotation_77531121">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_77531121" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_77531121" type="highlight" log_data="ei=aKvpVsOyCMSXuAKOq6LQCw&amp;a-id=annotation_77531121&amp;a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPLOtJuscqh_GVFSaJTqhPkV8-ELWm-Ymen&amp;a-v=vaZCrBabKqI&amp;l-class=2&amp;xble=1">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="55.62600" y="28.45100" w="40.53100" h="39.32400" t="2:08.491"/>
+      <rectRegion x="55.62600" y="28.45100" w="40.53100" h="39.32400" t="2:14.504"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/playlist?list=PLOtJuscqh_GVFSaJTqhPkV8-ELWm-Ymen&amp;ei=aKvpVsOyCMSXuAKOq6LQCw" link_class="2"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:54c9e556-0000-235a-90f4-001a113dee32" style="branding" type="branding"
+            log_data="ei=aKvpVsOyCMSXuAKOq6LQCw&amp;a-id=54c9e556-0000-235a-90f4-001a113dee32&amp;a-v=vaZCrBabKqI&amp;a-ch=UC2iHYoOdKvObRa-yIHMJO6A&amp;a-type=10&amp;link-id=UC2iHYoOdKvObRa-yIHMJO6A&amp;xble=0">
+  <data>{&quot;channel_name&quot;:&quot;Peaceful Warrior Martial Arts and Healing Center&quot;,&quot;subscription_token&quot;:&quot;&quot;,&quot;channel_id&quot;:&quot;UC2iHYoOdKvObRa-yIHMJO6A&quot;,&quot;num_subscribers&quot;:&quot;&quot;,&quot;image_width&quot;:40,&quot;end_ms&quot;:146000,&quot;is_mobile&quot;:false,&quot;start_ms&quot;:0,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/2iHYoOdKvObRa-yIHMJO6A\/featured_channel.jpg?v=54daccc8&quot;,&quot;image_height&quot;:39,&quot;image_type&quot;:1}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/ScottsdaleAZKarate?ei=aKvpVsOyCMSXuAKOq6LQCw&amp;src_vid=vaZCrBabKqI&amp;feature=iv&amp;annotation_id=54c9e556-0000-235a-90f4-001a113dee32"/>
+  </action>
+  <html_blob>
+    
+  </html_blob>
+</annotation>
+  <annotation id="channel:54cafefd-0000-27f5-a1d6-001a113d3876" style="video" type="promotion"
+              log_data="ret-smrt=1&amp;a-id=54cafefd-0000-27f5-a1d6-001a113d3876&amp;is-live=0&amp;ret-t=10&amp;a-type=11&amp;link-id=BRl_C-d3ASg&amp;a-v=vaZCrBabKqI&amp;ei=aKvpVsOyCMSXuAKOq6LQCw&amp;a-ch=UC2iHYoOdKvObRa-yIHMJO6A&amp;ret-exp=-4&amp;xble=1">
+    <data>{&quot;collapse_delay_ms&quot;:86400000,&quot;text_line_2&quot;:&quot;Waza Wednesday 1\/28\/15 - Naihanchi Sandan Oyo Bunkai&quot;,&quot;text_line_1&quot;:&quot;Suggested by Peaceful Warrior Martial Arts and Healing Center&quot;,&quot;is_live&quot;:false,&quot;end_ms&quot;:146000,&quot;is_mobile&quot;:false,&quot;start_ms&quot;:136000,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/BRl_C-d3ASg\/mqdefault.jpg&quot;,&quot;video_duration&quot;:&quot;1:41&quot;}</data>
+    <segment/>
+    <action trigger="click" type="openUrl">
+      <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=BRl_C-d3ASg&amp;ei=aKvpVsOyCMSXuAKOq6LQCw&amp;src_vid=vaZCrBabKqI&amp;feature=iv&amp;annotation_id=54cafefd-0000-27f5-a1d6-001a113d3876"/>
+    </action>
+  </annotation>
+  </annotations></document>

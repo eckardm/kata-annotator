@@ -9,6 +9,7 @@ bunkai_annotations_for_movements = [
     ("6529f2fb-a224-4e0c-b19d-4a413640b575", 22, 23, "annotations/video/Practical Kata Bunkai - The End of Pinan Shodan _ Heian Nidan-IP8YTQJhKk8.mp4"), 
     ("6529f2fb-a224-4e0c-b19d-4a413640b575", 1, 6, "annotations/video/Practical Kata Bunkai - Pinan Shodan _ Heian Nidan Drills-VbudRAywYhw.mp4"), 
     ("6529f2fb-a224-4e0c-b19d-4a413640b575", 8, 10, "annotations/video/Practical Kata Bunkai - Pinan Shodan _ Heian Nidan Drills-VbudRAywYhw.mp4"), 
+    ("6529f2fb-a224-4e0c-b19d-4a413640b575", 16, 18, "annotations/video/Waza Wednesday 3_16_16 -  Pinan Shodan Armbar_Kick_Punch Sequence-vaZCrBabKqI.mkv")
 ]
 
 for kata_uuid, start_movement_count, end_movement_count, annotation in bunkai_annotations_for_movements:

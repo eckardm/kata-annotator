@@ -271,7 +271,7 @@ for kata in katas:
                 if "video" in bunkai_annotation:
                     p = soup.new_tag("p")
                     div.append(p)
-                    video = soup.new_tag("video", width="560", height="315", controls=True, poster="../../" + bunkai_annotation.replace("mp4", "jpg"))
+                    video = soup.new_tag("video", width="560", height="315", controls=True, poster="../../" + bunkai_annotation.replace("mp4", "jpg").replace("mkv", "jpg"))
                     video.string = "Your browser does not support the video tag."
                     p.append(video)
                     source = soup.new_tag("source", src="../../" + bunkai_annotation, type="video/" + bunkai_annotation[-3:])
@@ -310,7 +310,7 @@ for kata in katas:
                 if "video" in performance_annotation:
                     p = soup.new_tag("p")
                     div.append(p)
-                    video = soup.new_tag("video", width="560", height="315", controls=True, poster="../../" + bunkai_annotation.replace("mp4", "jpg"))
+                    video = soup.new_tag("video", width="560", height="315", controls=True, poster="../../" + bunkai_annotation.replace("mp4", "jpg").replace("mkv", "jpg"))
                     video.string = "Your browser does not support the video tag."
                     p.append(video)
                     source = soup.new_tag("source", src="../../" + performance_annotation, type="video/" + performance_annotation[-3:])
