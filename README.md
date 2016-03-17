@@ -1,7 +1,7 @@
 KataAnnotator
 -------------
 
-![Kata Annotator]("website/logo-kata_annotator.jpg")
+![Kata Annotator]("https://drive.google.com/open?id=0B6fFieffyG3rdWtwb1RPcEZFVEk")
 
 Allows you to append bunkai (we'll say "practical application") or performance annotations (text, images or video) to movements in a particular kata or techniques across kata. With the help of HTML5UP, also allows you to explore all that in a responsive website (or two).
 
