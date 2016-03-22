@@ -154,7 +154,7 @@ Clone or download and unzip the kata-annotator repository and check out website/
 ### Development Roadmap
 
   1. Proof of concept: JSON for Heian 2 (because it's really Pinan 1), the annotating functions and annotations as well as the website.
-  2. Get some feedback.
+  2. Get some feedback. (Update 2016-03-18: Separate out annotations and make a database.)
   3. Build out JSON for Heian 1 and 3-5, Tekki 1. Also for the Big Four.
   4. Add more annotations! I hope to do all this by September 2016.
   5. Website makeover, perhaps adding more information and search results or just browse pages for techniques (definitely) and stances (maybe), a process for getting submissions from others, a system for vetting or ranking bunkai or enabling other types of searching! Oh yeah, and get it on the actual Internet. And maybe build out annotations so that it fits the Open Annotation Core data model.
