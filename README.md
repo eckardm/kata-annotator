@@ -1,7 +1,7 @@
 KataAnnotator
 -------------
 
-![KataAnnotator Data Model]("data_model.jpg")
+![KataAnnotator Data Model](data_model.jpg)
 
 Allows you to append bunkai (we'll say "practical application") or performance annotations (text, images or video) to movements in a particular kata or techniques across kata. With the help of HTML5UP, also allows you to explore all that in a responsive website (or two).
 
