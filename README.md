@@ -13,7 +13,7 @@ Data Model
 Database Schema
 ===============
 
-**katas**
+**Table Name: katas**
 
 Column Name | Data Type | Constraint Name
 --- | --- | ---
@@ -24,7 +24,7 @@ image_full | TEXT |
 image_thumb | TEXT | 
 you_tube | TEXT | 
 
-**movements**
+**Table Name: movements**
 
 Column Name | Data Type | Constraint Name
 --- | --- | ---
@@ -43,7 +43,7 @@ notes | TEXT |
 kiai | BOOLEAN | 
 
 
-**stances**
+**Table Name: stances**
 
 Column Name | Data Type | Constraint Name
 --- | --- | ---
@@ -54,7 +54,7 @@ pronunciation | TEXT |
 image | TEXT | 
 description | TEXT | 
 
-**techniques**
+**Table Name: techniques**
 
 Column Name | Data Type | Constraint Name
 --- | --- | ---
@@ -67,7 +67,7 @@ type_jap | ENUM('Uke', 'Tsuki', 'Uchi', 'Keri')
 image | TEXT | 
 description | TEXT | 
 
-**annotations
+**Table Name: annotations**
 
 Inspired by the [Open Annotation](http://openannotation.org/) Basic Annotation Model.
 
