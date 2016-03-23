@@ -3,7 +3,7 @@ KataAnnotator
 
 Allows you to append bunkai (we'll say "practical application") or performance annotations (text, images or video) to movements in a particular kata or to movements with particular techniques across kata. With the help of HTML5UP, also allows you to explore all that in a responsive website (or two).
 
-I think the only dependency is [Python](https://www.python.org/) (I'm using 2.7).
+I think the only dependency (so far) is [Python](https://www.python.org/) (I'm using 2.7).
 
 Data Model
 ==========
@@ -14,6 +14,7 @@ Database Schema
 ===============
 
 **katas**
+
 Column Name | Data Type | Constraint Name
 --- | --- | ---
 kata_id | INTEGER | PRIMARY KEY
@@ -24,6 +25,7 @@ image_thumb | TEXT |
 you_tube | TEXT | 
 
 **movements**
+
 Column Name | Data Type | Constraint Name
 --- | --- | ---
 movement_id | INTEGER | PRIMARY KEY
@@ -42,6 +44,7 @@ kiai | BOOLEAN |
 
 
 **stances**
+
 Column Name | Data Type | Constraint Name
 --- | --- | ---
 stance_id | INTEGER | PRIMARY KEY
@@ -52,6 +55,7 @@ image | TEXT |
 description | TEXT | 
 
 **techniques**
+
 Column Name | Data Type | Constraint Name
 --- | --- | ---
 technique_id | INTEGER | PRIMARY KEY
@@ -64,6 +68,7 @@ image | TEXT |
 description | TEXT | 
 
 **annotations**
+
 Column Name | Data Type | Constraint Name
 --- | --- | ---
 annotation_id | INTEGER | PRIMARY KEY
