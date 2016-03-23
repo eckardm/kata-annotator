@@ -1,7 +1,7 @@
 KataAnnotator
 -------------
 
-Allows you to append bunkai (we'll say "practical application") or performance annotations (text, images or video) to movements in a particular kata or techniques across kata. With the help of HTML5UP, also allows you to explore all that in a responsive website (or two).
+Allows you to append bunkai (we'll say "practical application") or performance annotations (text, images or video) to movements in a particular kata or techniques in movements across kata. With the help of HTML5UP, also allows you to explore all that in a responsive website (or two).
 
 I think the only dependency is [Python](https://www.python.org/) (I'm using 2.7).
 
