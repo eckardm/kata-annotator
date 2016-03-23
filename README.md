@@ -35,10 +35,10 @@ image | TEXT |
 gif | TEXT | 
 image_aerial | TEXT | 
 stance_name | TEXT | 
-stance_id | INTEGER | FOREIGN KEY REFERENCES stances(stance_id)
+stance_id | INTEGER | FOREIGN KEY (stance_id) REFERENCES stances(stance_id)
 technique_name | TEXT | 
 technique_name_jap | TEXT | 
-technique_id | INTEGER | FOREIGN KEY REFERENCES stances(technique_id)
+technique_id | INTEGER | FOREIGN KEY (technique_id) REFERENCES stances(technique_id)
 notes | TEXT | 
 kiai | BOOLEAN | 
 
@@ -73,7 +73,7 @@ Column Name | Data Type | Constraint Name
 --- | --- | ---
 annotation_id | INTEGER | PRIMARY KEY
 body | TEXT | 
-target | INTEGER | FOREIGN KEY REFERENCES movements(movement_id)
+target | INTEGER | FOREIGN KEY (target) REFERENCES movements(movement_id)
 
 JSON Representatives
 ====================
