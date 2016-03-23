@@ -67,7 +67,9 @@ type_jap | ENUM('Uke', 'Tsuki', 'Uchi', 'Keri')
 image | TEXT | 
 description | TEXT | 
 
-**annotations**
+**annotations
+
+Inspired by the [Open Annotation](http://openannotation.org/) Basic Annotation Model.
 
 Column Name | Data Type | Constraint Name
 --- | --- | ---
