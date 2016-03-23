@@ -5,25 +5,68 @@ Allows you to append bunkai (we'll say "practical application") or performance a
 
 I think the only dependency is [Python](https://www.python.org/) (I'm using 2.7).
 
-### Data Model
+Data Model
+==========
 
 ![KataAnnotator Data Model](data_model.jpg)
 
-### Database Schema
+Database Schema
+===============
 
-```sql
-CREATE TABLE kata
-(
-id INTEGER,
-name TEXT,
-name_alt TEXT,
-you_tube TEXT,
-image_full TEXT,
-image_thumb TEXT,
-);
+**katas**
+Column Name | Data Type | Constraint Name
+kata_id | INTEGER | PRIMARY KEY
+name | TEXT | 
+name_alt | TEXT | 
+image_full | TEXT | 
+image_thumb | TEXT | 
+you_tube | TEXT | 
 
-```
-### JSON Representatives
+**movements**
+Column Name | Data Type | Constraint Name
+movement_id | INTEGER | PRIMARY KEY
+count | INTEGER | 
+subcount | INTEGER | 
+image | TEXT | 
+gif | TEXT | 
+image_aerial | TEXT | 
+stance_name | TEXT | 
+stance_id | INTEGER | FOREIGN KEY REFERENCES stances(stance_id)
+technique_name | TEXT | 
+technique_name_jap | TEXT | 
+technique_id | INTEGER | FOREIGN KEY REFERENCES stances(technique_id)
+notes | TEXT | 
+kiai | BOOLEAN | 
+
+
+**stances**
+Column Name | Data Type | Constraint Name
+stance_id | INTEGER | PRIMARY KEY
+name_eng | TEXT | 
+name_jap | TEXT | 
+pronunciation | TEXT | 
+image | TEXT | 
+description | TEXT | 
+
+**techniques**
+Column Name | Data Type | Constraint Name
+technique_id | INTEGER | PRIMARY KEY
+name_eng | TEXT | 
+name_jap | TEXT | 
+pronunciation | TEXT | 
+type_eng |  ENUM('Blocking', 'Punching', 'Striking', 'Kicking')
+type_jap | ENUM('Uke', 'Tsuki', 'Uchi', 'Keri')
+image | TEXT | 
+description | TEXT | 
+
+**annotations**
+Column Name | Data Type | Constraint Name
+annotation_id | INTEGER | PRIMARY KEY
+body | TEXT | 
+target | INTEGER | FOREIGN KEY REFERENCES movements(movement_id)
+
+JSON Representatives
+====================
 
 At the heart of the KataAnnotator are a number of JSON representations of kata, movements, stances and techniques. Have are made up of one or more (always more though) movements, and movements are made up of one stance and one or more techniques. JSON was chosen because kata are pretty much just data.
 
