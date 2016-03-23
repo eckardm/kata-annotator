@@ -1,14 +1,17 @@
 KataAnnotator
 -------------
 
-![KataAnnotator Data Model](data_model.jpg)
-
 Allows you to append bunkai (we'll say "practical application") or performance annotations (text, images or video) to movements in a particular kata or techniques across kata. With the help of HTML5UP, also allows you to explore all that in a responsive website (or two).
 
-And, I think the only dependency is [Python](https://www.python.org/) (I'm using 2.7).
+I think the only dependency is [Python](https://www.python.org/) (I'm using 2.7).
 
-JSON Representatives
-====================
+### Data Model
+
+![KataAnnotator Data Model](data_model.jpg)
+
+### Database
+
+### JSON Representatives
 
 At the heart of the KataAnnotator are a number of JSON representations of kata, movements, stances and techniques. Have are made up of one or more (always more though) movements, and movements are made up of one stance and one or more techniques. JSON was chosen because kata are pretty much just data.
 
