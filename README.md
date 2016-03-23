@@ -15,6 +15,7 @@ Database Schema
 
 **katas**
 Column Name | Data Type | Constraint Name
+--- | --- | ---
 kata_id | INTEGER | PRIMARY KEY
 name | TEXT | 
 name_alt | TEXT | 
@@ -24,6 +25,7 @@ you_tube | TEXT |
 
 **movements**
 Column Name | Data Type | Constraint Name
+--- | --- | ---
 movement_id | INTEGER | PRIMARY KEY
 count | INTEGER | 
 subcount | INTEGER | 
@@ -41,6 +43,7 @@ kiai | BOOLEAN |
 
 **stances**
 Column Name | Data Type | Constraint Name
+--- | --- | ---
 stance_id | INTEGER | PRIMARY KEY
 name_eng | TEXT | 
 name_jap | TEXT | 
@@ -50,6 +53,7 @@ description | TEXT |
 
 **techniques**
 Column Name | Data Type | Constraint Name
+--- | --- | ---
 technique_id | INTEGER | PRIMARY KEY
 name_eng | TEXT | 
 name_jap | TEXT | 
@@ -61,6 +65,7 @@ description | TEXT |
 
 **annotations**
 Column Name | Data Type | Constraint Name
+--- | --- | ---
 annotation_id | INTEGER | PRIMARY KEY
 body | TEXT | 
 target | INTEGER | FOREIGN KEY REFERENCES movements(movement_id)
