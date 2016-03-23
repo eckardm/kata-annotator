@@ -9,8 +9,20 @@ I think the only dependency is [Python](https://www.python.org/) (I'm using 2.7)
 
 ![KataAnnotator Data Model](data_model.jpg)
 
-### Database
+### Database Schema
 
+```sql
+CREATE TABLE kata
+(
+id INTEGER,
+name TEXT,
+name_alt TEXT,
+you_tube TEXT,
+image_full TEXT,
+image_thumb TEXT,
+);
+
+```
 ### JSON Representatives
 
 At the heart of the KataAnnotator are a number of JSON representations of kata, movements, stances and techniques. Have are made up of one or more (always more though) movements, and movements are made up of one stance and one or more techniques. JSON was chosen because kata are pretty much just data.
