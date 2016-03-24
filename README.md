@@ -25,11 +25,12 @@ Database Schema
 Column Name | Data Type | Constraint Name
 --- | --- | ---
 kata_id | INTEGER | PRIMARY KEY
-name | TEXT | 
-name_alt | TEXT | 
-image_full | TEXT | 
-image_thumb | TEXT | 
-you_tube | TEXT | 
+name | VARCHAR(255) | 
+name_alt | VARCHAR(255) | 
+decription | TEXT | 
+image_full | VARCHAR(255) | 
+image_thumb | VARCHAR(255) | 
+you_tube | VARCHAR(255) | 
 
 **Table Name: movements**
 
@@ -38,13 +39,13 @@ Column Name | Data Type | Constraint Name
 movement_id | INTEGER | PRIMARY KEY
 count | INTEGER | 
 subcount | INTEGER | 
-image | TEXT | 
-gif | TEXT | 
-image_aerial | TEXT | 
-stance_name | TEXT | 
+image | VARCHAR(255) | 
+gif | VARCHAR(255) | 
+image_aerial | VARCHAR(255) | 
+stance_name | VARCHAR(255) | 
 stance_id | INTEGER | FOREIGN KEY (stance_id) REFERENCES stances(stance_id)
-technique_name | TEXT | 
-technique_name_jap | TEXT | 
+technique_name | VARCHAR(255) | 
+technique_name_jap | VARCHAR(255) | 
 technique_id | INTEGER | FOREIGN KEY (technique_id) REFERENCES stances(technique_id)
 notes | TEXT | 
 kiai | BOOLEAN | 
@@ -55,10 +56,10 @@ kiai | BOOLEAN |
 Column Name | Data Type | Constraint Name
 --- | --- | ---
 stance_id | INTEGER | PRIMARY KEY
-name_eng | TEXT | 
-name_jap | TEXT | 
-pronunciation | TEXT | 
-image | TEXT | 
+name_eng | VARCHAR(255) | 
+name_jap | VARCHAR(255) | 
+pronunciation | VARCHAR(255) | 
+image | VARCHAR(255) | 
 description | TEXT | 
 
 **Table Name: techniques**
@@ -66,12 +67,12 @@ description | TEXT |
 Column Name | Data Type | Constraint Name
 --- | --- | ---
 technique_id | INTEGER | PRIMARY KEY
-name_eng | TEXT | 
-name_jap | TEXT | 
-pronunciation | TEXT | 
+name_eng | VARCHAR(255) | 
+name_jap | VARCHAR(255) | 
+pronunciation | VARCHAR(255) | 
 type_eng |  ENUM('Blocking', 'Punching', 'Striking', 'Kicking')
 type_jap | ENUM('Uke', 'Tsuki', 'Uchi', 'Keri')
-image | TEXT | 
+image | VARCHAR(255) | 
 description | TEXT | 
 
 **Table Name: annotations**
