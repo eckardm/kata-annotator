@@ -10,6 +10,13 @@ Data Model
 
 ![KataAnnotator Data Model](data_model.jpg)
 
+I believe the data model is fairly straightforward:
+  * Kata are made up of movements.
+  * Movements are made up of a stance and a technique. 
+  * Annotations are applied to a movement. 
+
+You can ignore Sequences for now (hence the dotted lines). I'm thinking of this later on as a way of grouping movements of kata together. I think it could get a little hairy some I'm ignoring it for now.
+
 Database Schema
 ===============
 
@@ -76,6 +83,8 @@ Column Name | Data Type | Constraint Name
 annotation_id | INTEGER | PRIMARY KEY
 body | TEXT | 
 target | INTEGER | FOREIGN KEY (target) REFERENCES movements(movement_id)
+
+Now to learn how to actually make a database...
 
 JSON Representatives
 ====================
