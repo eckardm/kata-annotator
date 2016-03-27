@@ -1,0 +1,7 @@
+{% extends "base.html" %}
+{% block content %}
+    <h1>Hi, {{ user.nickname }}!</h1>
+    {% for annotation in annotations %}
+    <div><p>{{ annotation.author.nickname }} added: <b>{{ annotation.body }}</b></p></div>
+    {% endfor %}
+{% endblock %}
